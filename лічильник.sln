@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "лічильник", "лічильник\лічильник.csproj", "{7A7C3B74-999C-43B8-A685-3227EBF40EF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A7C3B74-999C-43B8-A685-3227EBF40EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A7C3B74-999C-43B8-A685-3227EBF40EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A7C3B74-999C-43B8-A685-3227EBF40EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A7C3B74-999C-43B8-A685-3227EBF40EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5A13643-9229-4F16-A3E2-D9AEE2E6AB47}
+	EndGlobalSection
+EndGlobal
